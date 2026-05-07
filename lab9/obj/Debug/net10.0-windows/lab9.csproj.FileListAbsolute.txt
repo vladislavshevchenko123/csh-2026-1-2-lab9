@@ -18,4 +18,8 @@ C:\Users\shefovlad\source\repos\lab9\lab9\obj\Debug\net10.0-windows\refint\lab9.
 C:\Users\shefovlad\source\repos\lab9\lab9\obj\Debug\net10.0-windows\lab9.pdb
 C:\Users\shefovlad\source\repos\lab9\lab9\obj\Debug\net10.0-windows\lab9.genruntimeconfig.cache
 C:\Users\shefovlad\source\repos\lab9\lab9\obj\Debug\net10.0-windows\ref\lab9.dll
-C:\Users\shefovlad\source\repos\lab9\lab9\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\shefovlad\source\repos\lab9\lab9\obj\Debug\net10.0-windows\lab9.sourcelink.json
+C:\Users\shefovlad\source\repos\lab9\lab9\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shefovlad\source\repos\lab9\lab9\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shefovlad\source\repos\lab9\lab9\obj\Debug\net10.0-windows\lab9.csproj.AssemblyReference.cache
+C:\Users\shefovlad\source\repos\lab9\lab9\obj\Debug\net10.0-windows\lab9.csproj.Up2Date

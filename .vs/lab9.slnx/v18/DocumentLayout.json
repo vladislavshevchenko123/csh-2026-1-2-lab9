@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\shefovlad\\source\\repos\\lab9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|solutionrelative:lab9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|solutionrelative:lab9\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|solutionrelative:lab9\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|solutionrelative:lab9\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|solutionrelative:lab9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|solutionrelative:lab9\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9B2EB4-36CD-475F-B421-BF2ACE09294D}|lab9\\lab9.csproj|solutionrelative:lab9\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|c:\\users\\shefovlad\\source\\repos\\lab9\\lab9\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96417569-5357-03A6-E612-E72FD6A49F86}|lab9\\lab9.csproj|solutionrelative:lab9\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,37 +54,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 171,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "lab9\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\AssemblyInfo.cs",
-              "RelativeToolTip": "lab9\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T16:20:25.937Z",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\App.xaml",
+              "RelativeDocumentMoniker": "lab9\\App.xaml",
+              "ToolTip": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\App.xaml",
+              "RelativeToolTip": "lab9\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-07T11:11:23.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "DialogService.cs",
+              "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\DialogService.cs",
+              "RelativeDocumentMoniker": "lab9\\DialogService.cs",
+              "ToolTip": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\DialogService.cs",
+              "RelativeToolTip": "lab9\\DialogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:04:57.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDialogService.cs",
+              "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\IDialogService.cs",
+              "RelativeDocumentMoniker": "lab9\\IDialogService.cs",
+              "ToolTip": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\IDialogService.cs",
+              "RelativeToolTip": "lab9\\IDialogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:04:08.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\MainViewModel.cs",
               "RelativeDocumentMoniker": "lab9\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\MainViewModel.cs",
               "RelativeToolTip": "lab9\\MainViewModel.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwDIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T15:36:27.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\Contact.cs",
               "RelativeDocumentMoniker": "lab9\\Contact.cs",
@@ -81,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\RelayCommand.cs",
               "RelativeDocumentMoniker": "lab9\\RelayCommand.cs",
@@ -94,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ObservableObject.cs",
               "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\ObservableObject.cs",
               "RelativeDocumentMoniker": "lab9\\ObservableObject.cs",
@@ -107,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\MainWindow.xaml",
               "RelativeDocumentMoniker": "lab9\\MainWindow.xaml",
@@ -119,15 +160,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "lab9\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\MainWindow.xaml.cs",
               "RelativeToolTip": "lab9\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T14:53:24.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\App.xaml.cs",
+              "RelativeDocumentMoniker": "lab9\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\App.xaml.cs",
+              "RelativeToolTip": "lab9\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:11:31.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "lab9\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\shefovlad\\source\\repos\\lab9\\lab9\\AssemblyInfo.cs",
+              "RelativeToolTip": "lab9\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:20:25.937Z",
               "EditorCaption": ""
             }
           ]

@@ -16,7 +16,6 @@ namespace lab9
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new MainViewModel();
         }
     }
 }

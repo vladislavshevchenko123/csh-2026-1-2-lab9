@@ -1,4 +1,5 @@
-﻿using System;
+﻿using lab9.Services;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
@@ -9,6 +10,8 @@ namespace lab9;
 
 public class MainViewModel : ObservableObject
 {
+    IDialogService _dialogService;
+
     // Коллекция контактов
     public ObservableCollection<Contact> Contacts { get; }
     private string _name = string.Empty;
@@ -62,8 +65,9 @@ public class MainViewModel : ObservableObject
     // Команды
     public ICommand AddCommand { get; }
     public ICommand DeleteCommand { get; }
-    public MainViewModel()
+    public MainViewModel(IDialogService dialogService)
     {
+        _dialogService = dialogService;
         Contacts = new ObservableCollection<Contact>();
         AddCommand = new RelayCommand(
             AddContact,
@@ -75,9 +79,17 @@ public class MainViewModel : ObservableObject
     }
     private void AddContact()
     {
+        if (Contacts.Any(c => c.Phone == _phone || c.Name == _name))
+        {
+            _dialogService.ShowWarning("Контакт с таким номером телефона или именем уже существует.", "Предупреждение");
+            return;
+        }
+
         Contacts.Add(new Contact(_name, _phone));
         Name = string.Empty;
         Phone = string.Empty;
+
+        _dialogService.ShowInfo("Контакт успешно добавлен.", "Информация");
     }
     private bool CanAddContact()
     {
@@ -90,7 +102,12 @@ public class MainViewModel : ObservableObject
     private void DeleteContact()
     {
         if (_selectedContact != null)
-            Contacts.Remove(_selectedContact);
+        {
+            if (_dialogService.ShowConfirmation("Вы уверены, что хотите удалить контакт?", "Подтверждение"))
+            {
+                Contacts.Remove(_selectedContact);
+            }
+        }
     }
     private bool CanDeleteContact()
     {
